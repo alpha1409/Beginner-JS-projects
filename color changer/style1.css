@@ -1,0 +1,35 @@
+#grey{
+  background-color: grey;
+  border: solid;
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+}
+#white{
+  background-color: white;
+  border: solid;
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+}
+#blue{
+  background-color: blue;
+  border: solid;
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+}
+#yellow{
+  background-color: yellow;
+  border: solid;
+  width: 200px;
+  height:200px;
+  display: inline-block;
+}
+#purple{
+  background-color: purple;
+  border: solid;
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+}

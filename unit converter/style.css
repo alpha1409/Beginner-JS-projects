@@ -1,0 +1,27 @@
+body{
+  background-color: lightblue;
+}
+
+#heading{
+  background-color: white;
+  border-radius: 7px;
+  padding: 10px;
+  
+}
+
+#heading-text{
+  padding-left: 20px;
+}
+#result{
+  background-color: rgb(239, 114, 135);
+  width: 200px;
+  font-size: 15px;
+  margin-top: 30px;
+  color: white;
+  padding: 0 0 0 10px;
+}
+
+#value-input{
+  margin-top: 20px;
+  
+}
